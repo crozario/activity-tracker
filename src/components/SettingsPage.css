@@ -1,4 +1,8 @@
-.Page {
+.SettingsPage {
+  text-align: center;
+}
+
+.SettingsPage-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;

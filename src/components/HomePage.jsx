@@ -1,15 +1,15 @@
 import React from "react";
-import "./Home.css";
+import "./HomePage.css";
 
-class Home extends React.Component {
+class HomePage extends React.Component {
   //   constructor(props) {
   //     super(props);
   //   }
 
   render() {
     return (
-      <div className="Home">
-        <header className="Home-header">
+      <div className="HomePage">
+        <header className="HomePage-header">
           <p>Current Activity</p>
         </header>
       </div>
@@ -17,4 +17,4 @@ class Home extends React.Component {
   }
 }
 
-export default Home;
+export default HomePage;

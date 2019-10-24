@@ -1,8 +1,8 @@
-.Home {
+.HistoryPage {
   text-align: center;
 }
 
-.Home-header {
+.HistoryPage-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
