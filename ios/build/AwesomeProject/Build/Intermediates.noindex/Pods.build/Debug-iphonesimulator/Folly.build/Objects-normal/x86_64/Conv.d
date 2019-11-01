@@ -1,0 +1,42 @@
+dependencies: \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/Conv.cpp \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/Conv.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Headers/Public/DoubleConversion/double-conversion/double-conversion.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Headers/Public/DoubleConversion/double-conversion/utils.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/Demangle.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/FBString.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/Portability.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/CPortability.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/Traits.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/hash/Hash.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/Utility.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/functional/ApplyTuple.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/functional/Invoke.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/Preprocessor.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/hash/SpookyHashV1.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/lang/Bits.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/ConstexprMath.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/lang/Assume.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/portability/Builtins.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/memory/Malloc.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/memory/detail/MallocImpl.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/Expected.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/Likely.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/Optional.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/Unit.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/lang/ColdClass.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/Range.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/portability/Constexpr.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/portability/String.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/CpuId.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/detail/RangeCommon.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Headers/Public/glog/glog/logging.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Headers/Public/glog/glog/log_severity.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Headers/Public/glog/glog/vlog_is_on.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/detail/RangeSse42.h \
+  /Users/crozario/dev/AwesomeProject/ios/Pods/Folly/folly/portability/Math.h
